@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Network Security Groups and Wireshark Logo"/>
+<img src="https://i.imgur.com/M0pY7CY.png" alt="Network Security Groups and Wireshark Logo"/>
 </p>
 
 # Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines using Wireshark
