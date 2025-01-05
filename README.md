@@ -95,4 +95,4 @@ This guide walks you through observing various network traffic between Azure Vir
 
 ---
 
-By completing this tutorial, you gain practical experience in configuring NSGs and analyzing network traffic with Wireshark, which are essential skills for network and cloud administration.
+After compleating this lab, now you know about how to configure NSGs and analyze network traffic with Wireshark.
